@@ -3,7 +3,6 @@ package by9ye.springframework.springbootjokesapp;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//aa
 @SpringBootApplication
 public class SpringBootJokesAppApplication {
 
